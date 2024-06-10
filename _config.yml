@@ -1,6 +1,6 @@
 # _config.yml
 
-url: "https://google.fr"
+url: "https://awelvor.github.io/root/"
 title: "Jekyll Actions Demo"
 collections:
   authors:
